@@ -1,6 +1,6 @@
->Sequence_ID_001 | name=Mark | organism=Homo sapiens | description=example DNA sequence
+>Mark | organism=Homo sapiens | description=example DNA sequence
 ATGCGTACGTTAGCTAGCTAGCTAACGTACGTATCGATCGATCGATCGATCGATCGATCG
 ATGCGTACGTTAGCTAGCTAGCTAACGTACGTATCGATCGATCGATCGATCGATCGATCG
->Sequence_ID_002 | name=Jerry | organism=Mus musculus | description=another DNA sequence
+>Jerry | organism=Mus musculus | description=another DNA sequence
 TGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCA
 TGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCA
